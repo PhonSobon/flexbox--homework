@@ -173,3 +173,10 @@ header{
 section{
     margin-bottom: 100px;
 }
+address{
+    text-align: center;
+}
+footer p{
+    text-align: center;
+    color: #00337C;
+}
