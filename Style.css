@@ -16,7 +16,7 @@ header{
 .box-container{
     width: 100%;
     height:700px ;
-    background-image: url(../img/background2.avif);
+    background-image: url(/img/background2.avif);
     background-repeat: no-repeat;
     background-size: cover;
     display: flex;
